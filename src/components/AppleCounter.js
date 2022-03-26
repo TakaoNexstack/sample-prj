@@ -18,6 +18,7 @@ export const AppleCounter = () => {
 
   return (
     <div className="AppleCounter">
+      <h1>Apple Counter</h1>
       <p>
         🍎<b>Count</b>: {appleCount}
       </p>
